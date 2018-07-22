@@ -1,0 +1,17 @@
+{
+  "name": "twitterbot_theysay",
+  "version": "1.0.0",
+  "description": "Twitter bot for random quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quotes"
+  ],
+  "author": "ShantanuPatil",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
